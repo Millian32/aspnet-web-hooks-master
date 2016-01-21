@@ -72,4 +72,3 @@ C:\GitHub\aspnet-web-hooks-master\GitHubRepoActivities\bin\System.Web.Http.xml
 C:\GitHub\aspnet-web-hooks-master\GitHubRepoActivities\bin\System.Web.Http.WebHost.xml
 C:\GitHub\aspnet-web-hooks-master\GitHubRepoActivities\obj\Debug\GitHubRepoActivities.dll
 C:\GitHub\aspnet-web-hooks-master\GitHubRepoActivities\obj\Debug\GitHubRepoActivities.pdb
-C:\GitHub\aspnet-web-hooks-master\GitHubRepoActivities\obj\Debug\GitHubRepoActivities.csprojResolveAssemblyReference.cache

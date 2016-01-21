@@ -149,6 +149,7 @@
     </Compile>
     <Compile Include="Models\GitHubMessage.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="test.cs" />
     <Compile Include="WebHookHandlers\GitHubWebHookHandler.cs" />
   </ItemGroup>
   <ItemGroup>
