@@ -1,4 +1,4 @@
-﻿// T4 code generation is enabled for model 'C:\Users\Ravi\documents\visual studio 14\Projects\GitHubrepoActivities\GitHubRepoActivities\Models\GitHubActivityEntities.edmx'. 
+﻿// T4 code generation is enabled for model 'C:\GitHub\aspnet-web-hooks-master\GitHubRepoActivities\Models\GitHubActivityEntities.edmx'. 
 // To enable legacy code generation, change the value of the 'Code Generation Strategy' designer
 // property to 'Legacy ObjectContext'. This property is available in the Properties Window when the model
 // is open in the designer.
