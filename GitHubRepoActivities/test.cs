@@ -9,5 +9,6 @@ namespace GitHubRepoActivities
     public class test
     {
         string x = "x";
+        string y = "y";
     }
 }
